@@ -1,0 +1,58 @@
+{
+    "tue": {
+        "breakfast": {
+            "musli": ["nuts", "apples"]
+        },
+        "lunch": {
+            "Spice beef with rice": ["rice", "ground beef", "pepper", "spring onion", "garlic", "ginger", "rice vinegar"]
+        },
+        "snack": {
+            "Chia banana split": ["chia", "bananas", "chocolate", "soy yogurt"]
+        },
+        "dinner": {
+            "Savory porridge": ["fine oat", "eggs", "permesan", "spring onion", "nutmeg"]
+        }
+    },
+    "wed": {
+        "breakfast": {
+            "chiaPudding": ["chia", "nuts", "milk", "mangos"]
+        },
+        "lunch": {
+            "chickenKorma": ["chicken", "ginger", "tomato puree", "cayenne", "rice", "raisin", "spinach", "nuts", "soy yogurt"]
+        },
+        "snack": {
+            "bakedOatmeal": ["fine oat", "milk", "eggs", "figs"]
+        },
+        "dinner": {
+            "chickenOriental": ["chicken", "lettuce", "cabbage", "mangos", "nuts", "permesan"]
+        }
+    },
+    "thur": {
+        "breakfast": {
+            "proteinSandwich": ["bread", "cottage", "harzer cheese", "spring onion"]
+        },
+        "lunch": {
+            "zoodlesWithFeta": ["zucchinis", "garlic", "peas", "feta", "rosemary"]
+        },
+        "snack": {
+            "chicorySalad": ["chicken", "chicory", "orange", "permesan", "soy yogurt"]
+        },
+        "dinner": {
+            "veggieEgg": ["eggs", "butter", "cauliflower", "corn", "carrot", "chia", "sesame"]
+        }
+    },
+    "fri": {
+        "breakfast": {
+            "chiaSplit": ["chia", "bananas", "chocolate", "soy yogurt"]
+        },
+        "lunch": {
+            "veggieSweetPotatoMoussaka": ["quinoa", "garlic", "tomato", "tomato puree", "oregano", "cumin", "cinnamon", "sweet potato", "eggs", "greek yogurt"]
+        },
+        "snack": {
+            "kiwiVanillaOats": ["fine oat", "kiwi", "chia", "chia"]
+        },
+        "dinner": {
+            "chaoticSalmon": ["cottage", "avocado", "tomato"]
+        }
+    }
+}

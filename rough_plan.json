@@ -1,0 +1,27 @@
+{
+	"breakfast": [
+		{"musli": ["nuts", "apples"]},
+		{"Chia mango Pudding": ["chia", "nuts", "milk", "mangos"]},
+		{"Cottage cheese sandwich": ["bread", "cottage", "harzer cheese", "spring onion"]},
+		{"Chia banana split": ["chia", "bananas", "chocolate", "soy yogurt"]}
+	],
+	"lunch": [
+		{"spiceBeef": ["rice", "ground beef", "pepper", "spring onion", "garlic", "ginger", "rice vinegar"]},
+		{"chickenKorma": ["chicken", "ginger", "tomato puree", "cayenne", "rice", "raisin", "spinach", "nuts", "soy yogurt"]},
+		{"zoodlesWithFeta": ["zucchinis", "garlic", "peas", "feta", "rosemary"]},
+		{"veggieSweetPotatoMoussaka": ["quinoa", "garlic", "tomato", "tomato puree", "oregano", "cumin", "cinnamon", "sweet potato", "eggs", "greek yogurt"]},
+		{"tuscanSalad": ["tuna", "tomato", "garlic", "permesan", "olives", "thyme"]}
+	],
+	"snack": [
+		{"chiaSplit": ["chia", "bananas", "chocolate", "soy yogurt"]},
+		{"bakedOatmeal": ["fine oat", "milk", "eggs", "figs"]},
+		{"chicorySalad": ["chicken", "chicory", "orange", "permesan", "soy yogurt"]},
+		{"kiwiVanillaOats": ["fine oat", "kiwi", "chia", "chia"]}
+	],
+	"dinner": [
+		{"savoryPorridge": ["fine oat", "eggs", "permesan", "spring onion", "nutmeg"]},
+		{"chickenOriental": ["chicken", "lettuce", "cabbage", "mangos", "nuts", "permesan"]},
+		{"veggieEgg": ["eggs", "butter", "cauliflower", "corn", "carrot", "chia", "sesame"]},
+		{"chaoticSalmon": ["cottage", "avocado", "tomato"]}
+	]
+}
